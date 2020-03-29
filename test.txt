@@ -1,0 +1,20 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 084D-FD75
+
+ Directory of C:\Users\Debmalya\eclipse-workspace\Java Learning
+
+23-03-2020  23:16    <DIR>          .
+23-03-2020  23:16    <DIR>          ..
+07-11-2018  21:32               800 .classpath
+07-02-2019  00:40    <DIR>          .metadata
+26-08-2018  00:58               389 .project
+07-02-2019  00:46    <DIR>          .recommenders
+26-08-2018  00:58    <DIR>          .settings
+03-02-2019  22:43    <DIR>          bin
+07-02-2019  00:44    <DIR>          Learning
+23-03-2020  21:39    <DIR>          quickstart
+03-02-2019  22:43    <DIR>          src
+23-03-2020  23:18                 0 test.txt
+07-02-2019  01:29    <DIR>          Tyres
+               3 File(s)          1,189 bytes
+              10 Dir(s)  853,430,124,544 bytes free
